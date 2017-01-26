@@ -11,7 +11,7 @@ $ java AwesomeSongDownloader
 ```
 
 ```zsh
->> Enter songname/ lyrics/ artist.. or whatever
+>> Enter lyrics of some english song.
 
 another turning point a fork stuck in the road 
 
