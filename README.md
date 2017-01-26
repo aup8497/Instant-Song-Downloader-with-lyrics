@@ -92,9 +92,11 @@ It's something unpredictable, but in the end is right
 I hope you had the time of your life
 
 ```
-  
- Here is a snapshot of the program:
-<img src="" height="50%" width="50%">  
+
+Here is a snapshot of the program
+[id]: https://github.com/aup8497/Instant-Song-Downloader-with-lyrics/blob/master/Screenshot1.png 
+![alt text][id]
+ 
 
 
 ##The MIT LICENSE
