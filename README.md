@@ -97,7 +97,7 @@ Here is a snapshot of the program
 [id]: https://github.com/aup8497/Instant-Song-Downloader-with-lyrics/blob/master/screenshot1.png
 ![alt text][id]
  
-[id]: https://github.com/aup8497/Instant-Song-Downloader-with-lyrics/blob/master/Screenshot2.png
+[id]: https://github.com/aup8497/Instant-Song-Downloader-with-lyrics/blob/master/screenshot2.png
 ![alt text][id]
  
 
