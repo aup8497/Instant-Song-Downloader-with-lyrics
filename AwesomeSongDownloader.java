@@ -21,7 +21,9 @@ public class AwesomeSongDownloader{
 
 	public static void main(String[] args) throws IOException {
 		Scanner in=new Scanner(System.in);
-
+		
+		System.out.println("Enter lyrics of some english song.");
+		
 		String lyric=in.nextLine();
 		String formattedLyric1=lyric.replaceAll(" ","%20");
 		String formattedLyric=formattedLyric1.replaceAll("'","&#039;");
